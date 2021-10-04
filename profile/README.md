@@ -14,7 +14,7 @@ We are proud to share our experience and know-how with the community. We believe
 We are continuously contributing in the open-source community, and some of our most noted projects are:
 * [Next Starter](https://github.com/lucky-media/nextstarter) - a Next.js project starter build with TailwindCSS and some opinionated defaults
 * [Statamic Starter](https://github.com/lucky-media/statamic-starter) - an opinionated Statamic Starter kit build with TailwindCSS
-* [Laravel Breeze](https://github.com/lucky-media/breeze-react) - using React for Laravel Breeze. This is now officially supported by Laravel Breeze.
+* [Laravel Breeze](https://github.com/lucky-media/breeze-react) - using React with Laravel Breeze. This is now officially integrated in Laravel Breeze.
 
 ### 🏹 Our Products
 * Landtamic - a very powerful Statamic Starter kit with more than 100 component designs
