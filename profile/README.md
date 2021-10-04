@@ -1,7 +1,7 @@
 # 👋 Tung from Lucky Media
 Did you know that **[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** means `hi` in Albanian language?
 
-![Lucky Media](https://i.imgur.com/bvtuX6d.png)
+![Lucky Media](https://i.imgur.com/7NuaUwT.png)
 
 
 ## 🙋‍♀️ Who we are
