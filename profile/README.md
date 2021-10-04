@@ -1,7 +1,7 @@
 # 👋 Tung from Lucky Media
 Did you know that "[Tung](https://translate.google.com/?sl=sq&tl=en&text=tung&op=translate)" means "hi" in Albanian language?
 
-![Lucky Media](https://i.imgur.com/bvtuX6d.png)
+![Lucky Media](https://i.imgur.com/QhFdfDt.jpeg)
 
 
 ## 🙋‍♀️ Who we are
