@@ -1,5 +1,5 @@
 # 👋 Tung from Lucky Media
-Did you know that "[Tung](https://translate.google.com/?sl=sq&tl=en&text=tung&op=translate)" means "hi" in Albanian language?
+Did you know that **[Tung](https://translate.google.com/?sl=sq&tl=en&text=tung&op=translate)** means `hi` in Albanian language?
 
 ![Lucky Media](https://i.imgur.com/bvtuX6d.png)
 
@@ -21,7 +21,7 @@ We are continuously contributing in the open-source community, and some of our m
 * [Cloud](https://statamic.com/starter-kits/luckymedia/cloud) - a compact Statamic Starter kit with more than 30 component designs
 
 ## 🍿 Fun facts
-**Isnification** is the word we use when the designer gets the design ready for development. The idea came from **Art**, our first designer, who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but "Isnification" is still used regularly. And yes, Isni is still with us, as well as the designer, Art.
+`Isnification` is the word we use when the designer gets the design ready for development. The idea came from `Art` (Yes, that's his name), our first designer ( Yes, our designer is named Art 🤷‍♂️ ), who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but `Isnification` is still used regularly. And yes, Isni is still with us, as well as the designer, Art.
 
 ## 🏹 Connect with us
 * [Website](https://www.luckymedia.dev/)
