@@ -1,0 +1,32 @@
+# 👋 Tung from Lucky Media
+Did you know that "[Tung](https://translate.google.com/?sl=sq&tl=en&text=tung&op=translate)" means "hi" in Albanian language?
+
+![Lucky Media](https://i.imgur.com/bvtuX6d.png)
+
+
+## 🙋‍♀️ Who we are
+**Lucky Media** started as a family business with the intention of helping business owners to digitilize their companies. We are a team of enthusiastic young people focused on design creativity, usage of latest technologies and providing a top-notch quality product. We try hard to instill a family atmosphere among our employees and treat them as family members. Our mission is to ensure equal opportunities for all members and encourage diversity in our business concept. 
+
+## 👩‍💻 Useful resources
+We are proud to share our experience and know-how with the community. We believe that we owe it to the progress of technology and the prosperity of the society. It’s no wonder that our internship positions are always full of enthusiastic young programmers, who become fully capable of being easily employed in the industry.
+
+### 🕸️ Open-Source
+We are continuously contributing in the open-source community, and some of our most noted projects are:
+* [Next Starter](https://github.com/lucky-media/nextstarter) - a Next.js project starter build with TailwindCSS and some opinionated defaults
+* [Statamic Starter](https://github.com/lucky-media/statamic-starter) - an opinionated Statamic Starter kit build with TailwindCSS
+* [Laravel Breeze](https://github.com/lucky-media/breeze-react) - using React for Laravel Breeze. This is now officially supported by Laravel Breeze.
+
+### 🏹 Our Products
+* Landtamic - a very powerful Statamic Starter kit with more than 100 component designs
+* [Cloud](https://statamic.com/starter-kits/luckymedia/cloud) - a compact Statamic Starter kit with more than 30 component designs
+
+## 🍿 Fun facts
+**Isnification** is the word we use when the designer gets the design ready for development. The idea came from **Art**, our first designer, who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but "Isnification" is still used regularly. And yes, Isni is still with us, as well as the designer, Art.
+
+## 🏹 Connect with us
+* [Website](https://www.luckymedia.dev/)
+* [Twitter](https://twitter.com/LuckyMediaDev)
+* [Facebook](https://www.facebook.com/LuckyMediaDev/)
+* [LinkedIn](https://www.linkedin.com/company/luckymedia/)
+* [Instagram](https://www.instagram.com/luckymedia.dev/)
+* [Youtube](https://www.youtube.com/channel/UCjAJTM3trp-pAdrn_8Xd08Q)
