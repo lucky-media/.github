@@ -1,5 +1,5 @@
 # 👋 Tung from Lucky Media
-Did you know that **[Tung](https://translate.google.com/?sl=sq&tl=en&text=tung&op=translate)** means `hi` in Albanian language?
+Did you know that **[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** means `hi` in Albanian language?
 
 ![Lucky Media](https://i.imgur.com/bvtuX6d.png)
 
