@@ -1,5 +1,5 @@
 # 👋 Tung from Lucky Media
-Did you know that **[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** means `hi` in Albanian language?
+**[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** is a greeting phrase in Albanian, short for 'Tungjatjeta', it can be translated as 'may you live long'.
 
 ![Lucky Media](https://i.imgur.com/7NuaUwT.png)
 
