@@ -17,7 +17,7 @@ We are continuously contributing in the open-source community, and some of our m
 * [Laravel Breeze](https://github.com/lucky-media/breeze-react) - using React with Laravel Breeze. This is now officially integrated in Laravel Breeze.
 
 ### 🏹 Our Products
-* Landtamic - a very powerful Statamic Starter kit with more than 100 component designs
+* [Landtamic](https://statamic.com/starter-kits/luckymedia/landtamic) - a very powerful Statamic Starter kit with more than 100 component designs
 * [Cloud](https://statamic.com/starter-kits/luckymedia/cloud) - a compact Statamic Starter kit with more than 30 component designs
 
 ## 🍿 Fun facts
