@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♀️ Who we are
-**Lucky Media** started as a family business with the intention of helping business owners to digitalize their companies. We are a team of enthusiastic young people focused on design creativity, usage of the latest technologies and providing a top-notch quality product. We try hard to instill a family atmosphere among our employees and treat them as family members. Our mission is to ensure equal opportunities for all members and encourage diversity in our business concepts. 
+**Lucky Media** started as a family business with the intention of helping business owners to digitize their companies. We are a team of enthusiastic young people focused on design creativity, usage of the latest technologies and providing a top-notch quality product. We try hard to instill a family atmosphere among our employees and treat them as family members. Our mission is to ensure equal opportunities for all members and encourage diversity in our business concepts. 
 
 ## 👩‍💻 Useful resources
 We are proud to share our experience and know-how with the community. We believe that we owe it to the progress of technology and the prosperity of society. It’s no wonder that our internship positions are always full of enthusiastic young programmers, who become fully capable of being easily employed in the industry.
