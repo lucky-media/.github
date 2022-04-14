@@ -10,7 +10,7 @@
 ## 👩‍💻 Useful resources
 We are proud to share our experience and know-how with the community. We believe that we owe it to the progress of technology and the prosperity of society. It’s no wonder that our internship positions are always full of enthusiastic young programmers, who become fully capable of being easily employed in the industry.
 
-### Technology Stack
+### 💻 Technology Stack
 Our team is specialized in working with modern web development frameworks such as Laravel, Statamic, React, Next.js, Node.js, Alpine.js, Vue and TailwindCSS.
 
 ### 🕸️ Open-Source
@@ -27,7 +27,7 @@ We are continuously contributing in the open-source community, and some of our m
 ## 🍿 Fun facts
 `Isnification` is the word we use when the designer gets the design ready for development. The idea came from `Art` (Yes, that's his name), our first designer ( Yes, our designer is named Art 🤷‍♂️ ), who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but `Isnification` is still used regularly. And yes, Isni is still with us, as well as the designer, Art.
 
-## 🏹 Connect with us
+## 💞 Connect with us
 * [Website](https://www.luckymedia.dev/)
 * [Twitter](https://twitter.com/LuckyMediaDev)
 * [Facebook](https://www.facebook.com/LuckyMediaDev/)
