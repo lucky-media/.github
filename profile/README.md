@@ -5,10 +5,21 @@
 
 
 ## 🙋‍♀️ Who we are
-**Lucky Media** started as a family business with the intention of helping business owners to digitize their companies. We are a team of enthusiastic young people focused on design creativity, usage of the latest technologies and providing a top-notch quality product. We try hard to instill a family atmosphere among our employees and treat them as family members. Our mission is to ensure equal opportunities for all members and encourage diversity in our business concepts. 
+**We create game-changing digital solutions built for your business.**
+
+We know that one size fails all. Our clients are maverick minds – just like us – who
+want to try something on in a size made just for them.
+
+We’re your friendly neighborhood expert, building websites that increase spend, up engagement, and fast-track growth, apps that pack a punch and empower users, and bespoke digital spaces that jetpack the competition out the water.
+
+Forget out-the-box themes – we strip things back and start from scratch, picking the right tools (not ones that blow the budget) and tailoring them to take your digital presence to the next level.
+
+Want a website that increases spend, ups engagement, and fast-tracks growth? An app that packs a punch and empowers your users? Or a bespoke digital space that jetpacks the competition out the water?
+
+You just got **Lucky**.
 
 ## 👩‍💻 Useful resources
-We are proud to share our experience and know-how with the community. We believe that we owe it to the progress of technology and the prosperity of society. It’s no wonder that our internship positions are always full of enthusiastic young programmers, who become fully capable of being easily employed in the industry.
+We love all this tech stuff, and it shows. That passion for every pixel, every line of code, is packaged into every project. Our people have the freedom to create, the support to grow, and the space to enjoy their work so it feels a lot more like play.
 
 ### 💻 Technology Stack
 Our team is specialized in working with modern web development frameworks such as Laravel, Statamic, React, Next.js, Node.js, Alpine.js, Vue and TailwindCSS.
