@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♀️ Who we are
-**We create game-changing digital solutions built for your business.**
+**Lucky Media creates game-changing digital solutions built for your business. Get Lucky today, the ideal choice for software development!**
 
 We know that one size fails all. Our clients are maverick minds – just like us – who
 want to try something on in a size made just for them.
