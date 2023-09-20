@@ -10,8 +10,6 @@
 We know that one size fails all. Our clients are maverick minds – just like us – who
 want to try something on in a size made just for them.
 
-We’re your friendly neighborhood expert, building websites that increase spend, up engagement, and fast-track growth, apps that pack a punch and empower users, and bespoke digital spaces that jetpack the competition out the water.
-
 Forget out-the-box themes – we strip things back and start from scratch, picking the right tools (not ones that blow the budget) and tailoring them to take your digital presence to the next level.
 
 Want a website that increases spend, ups engagement, and fast-tracks growth? An app that packs a punch and empowers your users? Or a bespoke digital space that jetpacks the competition out the water?
@@ -26,6 +24,7 @@ Our team is specialized in working with modern web development frameworks such a
 
 ### 🕸️ Open-Source
 We are continuously contributing in the open-source community, and some of our most noted projects are:
+* [Reactor](https://github.com/lucky-media/nextstarter) - a Laravel package that provides minimal scaffolding for Laravel applications
 * [Next Starter](https://github.com/lucky-media/nextstarter) - a Next.js project starter build with TailwindCSS and some opinionated defaults
 * [Statamic Starter](https://github.com/lucky-media/statamic-starter) - an opinionated Statamic Starter kit built with TailwindCSS
 * [Laravel Breeze](https://github.com/lucky-media/breeze-react) - using React with Laravel Breeze. This is now officially integrated into Laravel Breeze.
