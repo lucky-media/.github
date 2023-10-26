@@ -1,20 +1,25 @@
 # 👋 Tung from Lucky Media
 **[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** is a greeting phrase in Albanian, short for 'Tungjatjeta', it can be translated as 'may you live long'.
 
-![Lucky Media](https://i.imgur.com/7NuaUwT.png)
-
+![Lucky Media](https://i.imgur.com/U796fjv.png)
 
 ## 🙋‍♀️ Who we are
-**Lucky Media creates game-changing digital solutions built for your business. Get Lucky today, the ideal choice for software development!**
+**Lucky Media** is a leading software development company based in Dallas, crafting game-changing digital solutions tailored to your business.
+Our extensive experience spans across startups to enterprise-level organizations, demonstrating our flexibility and commitment to delivering high-quality code.
 
-We know that one size fails all. Our clients are maverick minds – just like us – who
-want to try something on in a size made just for them.
+Our success stories highlight our versatility and innovative spirit:
 
-Forget out-the-box themes – we strip things back and start from scratch, picking the right tools (not ones that blow the budget) and tailoring them to take your digital presence to the next level.
+* An AI-powered web application that streamlines email responses for lead contacts, enabling efficient communication and client acquisition.
+* A comprehensive Laravel web application that revolutionizes patient management for a multi-location polyclinic, with a streamlined appointment system and enhanced staff cooperation.
+* A mobile application dedicated to promoting a capital city's tourist attractions, enhancing the tourist experience with features for rating tours, providing feedback, instant reservation and payment, and more.
+* A Laravel web application for a hosting company, utilizing WHMCS, Enom, and CPanel APIs to enhance UI/UX, streamlining domain and hosting registration processes, ultimately driving increased client profitability.
 
-Want a website that increases spend, ups engagement, and fast-tracks growth? An app that packs a punch and empowers your users? Or a bespoke digital space that jetpacks the competition out the water?
+Whether you’re looking for an internal web tool with API integration or a custom SaaS app, we’re all about smooth interfaces, modern aesthetics, and a zero-tolerance policy for bugs.
 
-You just got **Lucky**.
+Our team of developers excels in modern web development frameworks such as **Laravel, React, React Native, Vue, Next.js, Node.js, Alpine.js, Statamic** and **TailwindCSS**.
+As a Laravel development agency, we pride ourselves on our expertise in this robust PHP framework.
+
+_Get Lucky today, the ideal choice for custom software development!_
 
 ## 👩‍💻 Useful resources
 We love all this tech stuff, and it shows. That passion for every pixel, every line of code, is packaged into every project. Our people have the freedom to create, the support to grow, and the space to enjoy their work so it feels a lot more like play.
