@@ -11,7 +11,7 @@ Our success stories highlight our versatility and innovative spirit:
 
 * An AI-powered web application that streamlines email responses for lead contacts, enabling efficient communication and client acquisition.
 * A comprehensive Laravel web application that revolutionizes patient management for a multi-location polyclinic, with a streamlined appointment system and enhanced staff cooperation.
-* A mobile application dedicated to promoting a capital city's tourist attractions, enhancing the tourist experience with features for rating tours, providing feedback, instant reservation and payment, and more.
+* A React Native mobile application dedicated to promoting a capital city's tourist attractions, enhancing the tourist experience with features for rating tours, providing feedback, instant reservation and payment, and more.
 * A Laravel web application for a hosting company, utilizing WHMCS, Enom, and CPanel APIs to enhance UI/UX, streamlining domain and hosting registration processes, ultimately driving increased client profitability.
 
 Whether you’re looking for an internal web tool with API integration or a custom SaaS app, we’re all about smooth interfaces, modern aesthetics, and a zero-tolerance policy for bugs.
