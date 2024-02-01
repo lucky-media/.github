@@ -16,7 +16,7 @@ Our success stories highlight our versatility and innovative spirit:
 
 Whether you’re looking for an internal web tool with API integration or a custom SaaS app, we’re all about smooth interfaces, modern aesthetics, and a zero-tolerance policy for bugs.
 
-Our team of developers excels in modern web development frameworks such as **Laravel, React, React Native, Vue, Next.js, Node.js, Alpine.js, Statamic** and **TailwindCSS**.
+Our team of developers excels in modern web development frameworks such as **Laravel, React, React Native, Next.js, Vue.js, Alpine.js, Statamic** and **TailwindCSS**.
 As a Laravel development agency, we pride ourselves on our expertise in this robust PHP framework.
 
 _Get Lucky today, the ideal choice for custom software development!_
@@ -25,7 +25,7 @@ _Get Lucky today, the ideal choice for custom software development!_
 We love all this tech stuff, and it shows. That passion for every pixel, every line of code, is packaged into every project. Our people have the freedom to create, the support to grow, and the space to enjoy their work so it feels a lot more like play.
 
 ### 💻 Technology Stack
-Our team is specialized in working with modern web development frameworks such as Laravel, Statamic, React, Next.js, Node.js, Alpine.js, Vue and TailwindCSS.
+Our team is specialized in working with modern web development frameworks such as Laravel, React, Statamic, Next.js, Alpine.js, Vue.js and TailwindCSS.
 
 ### 🕸️ Open-Source
 We are continuously contributing in the open-source community, and some of our most noted projects are:
