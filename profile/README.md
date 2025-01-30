@@ -1,7 +1,7 @@
 # 👋 Tung from Lucky Media
 **[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** is a greeting phrase in Albanian, short for 'Tungjatjeta', it can be translated as 'may you live long'.
 
-![Lucky Media](https://github.com/lucky-media/.github/assets/7405502/bd442325-ff6c-4dae-b6f6-914dbd5e4470)
+<img width="4291" alt="Lucky Media GitHub organization" src="https://github.com/user-attachments/assets/d767af6c-c995-4b90-a337-94dadc26ebb1" />
 
 ## 🙋‍♀️ Who we are
 **Lucky Media** is a leading software development company based in Dallas, crafting game-changing digital solutions tailored to your business.
