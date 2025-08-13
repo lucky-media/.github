@@ -1,32 +1,36 @@
-# 👋 Tung from Lucky Media
-**[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** is a greeting phrase in Albanian, short for 'Tungjatjeta', it can be translated as 'may you live long'.
+# 👋 Welcome to Lucky Media
 
 <img width="4292" alt="GitHub hero image" src="https://github.com/user-attachments/assets/a623a973-093d-4490-a04e-fce24e42a497" />
 
+## 🙋‍♀️ About Us
+**Lucky Media** is a leading software development agency based in Dallas, Texas, passionate about delivering high-quality **modern web applications**.
+Our experience spans from **startups** to **enterprises**, demonstrating our flexibility and commitment for **cost-effective** solutions.
+This collaborative approach has empowered enterprise clients like [Chainguard](https://www.chainguard.dev/) and [data.world](https://data.world/) to overcome their challenges and achieve success.
 
-## 🙋‍♀️ Who we are
-**Lucky Media** is a leading software development company based in Dallas, crafting game-changing digital solutions tailored to your business.
-Our extensive experience spans across startups to enterprise-level organizations, demonstrating our flexibility and commitment to delivering high-quality code.
+## 🥷 Our Process
+At Lucky Media, we value transparency and flexibility. We blend the best of traditional agencies, outsourcing, and freelancing, minus the typical downsides:
 
-Our success stories highlight our versatility and innovative spirit:
+* Real-Time Communication: We use Slack to communicate with our clients for quick clarifications and small fixes.
+* Structured Task Management: For larger features, we use Asana to track tasks and ensure alignment on priorities and progress.
+* Regular Meetings: We hold monthly meetings to discuss completed features, upcoming priorities, and any necessary adjustments.
+* Transparent Billing: Clients are billed solely for actual development hours spent on project tasks. We don’t charge for lunch breaks, sick days, QA, code reviews, or project management time.
+* Proactive Approach: We don't just fix issues as they arise; we actively seek ways to improve client projects.
 
-* An AI-powered web application that streamlines email responses for lead contacts, enabling efficient communication and client acquisition.
-* A comprehensive Laravel web application that revolutionizes patient management for a multi-location polyclinic, with a streamlined appointment system and enhanced staff cooperation.
-* A React Native mobile application dedicated to promoting a capital city's tourist attractions, enhancing the tourist experience with features for rating tours, providing feedback, instant reservation and payment, and more.
-* A Laravel web application for a hosting company, utilizing WHMCS, Enom, and CPanel APIs to enhance UI/UX, streamlining domain and hosting registration processes, ultimately driving increased client profitability.
+## 🕵️‍♂️ Quality Assurance
+QA is integral to our development process.
 
-Whether you’re looking for an internal web tool with API integration or a custom SaaS app, we’re all about smooth interfaces, modern aesthetics, and a zero-tolerance policy for bugs.
+1. Peer Reviews: Every feature developed undergoes a strict peer review process to ensure quality and maintainability. 
+2. Lead Developer Review: Before any feature is deployed to staging, it must be approved by our lead developer.
+3. Client Approval: Client reviews the feature on a staging environment and approves it to go live.
 
-Our team of developers excels in modern web development frameworks such as **Laravel, React, React Native, Next.js, Vue.js, Alpine.js, Statamic** and **TailwindCSS**.
-As a Laravel development agency, we pride ourselves on our expertise in this robust PHP framework.
+## 💻 Technology Stack
+We specialize in the following technologies:
 
-_Get Lucky today, the ideal choice for custom software development!_
+- **Frontend**: React, Astro, Next.js
+- **Backend**: Laravel, FilamentPHP, Statamic
 
 ## 👩‍💻 Useful resources
-We love all this tech stuff, and it shows. That passion for every pixel, every line of code, is packaged into every project. Our people have the freedom to create, the support to grow, and the space to enjoy their work so it feels a lot more like play.
-
-### 💻 Technology Stack
-Our team is specialized in working with modern web development frameworks such as Laravel, React, Statamic, Next.js, Alpine.js, Vue.js and TailwindCSS.
+We love all this tech stuff! That passion for every pixel, every line of code, is packaged into every project. Our team has the freedom to create, the support to grow, and the space to enjoy their work so it feels a lot more like play.
 
 ### 🕸️ Open-Source
 We are continuously contributing in the open-source community, and some of our most noted projects are:
@@ -36,17 +40,18 @@ We are continuously contributing in the open-source community, and some of our m
 * [Laravel Breeze](https://github.com/lucky-media/breeze-react) - using React with Laravel Breeze. This is now officially integrated into Laravel Breeze.
 * [Knowledge base](https://guidelines.luckymedia.dev/) - guidelines to help developers with some good practices of the technologies we use.
 
-### 🏹 Our Products
-* [Landtamic](https://statamic.com/starter-kits/luckymedia/landtamic) - a very powerful Statamic Starter kit with more than 100 component designs
-* [Cloud](https://statamic.com/starter-kits/luckymedia/cloud) - a compact Statamic Starter kit with more than 30 component designs
+### 🏹 Our Paid Products
+* [Landtamic Pro](https://statamic.com/starter-kits/luckymedia/landtamic-pro) - a very powerful Statamic Starter kit with more than 100 component designs
+* [Formatic](https://statamic.com/starter-kits/luckymedia/formatic) - a beautiful self-hosted form builder
+* [Milano](https://statamic.com/starter-kits/luckymedia/milano) - a complete solution for building professional e-commerce websites with Statamic
 
 ## 🍿 Fun facts
-`Isnification` is the word we use when the designer gets the design ready for development. The idea came from `Art` (Yes, that's his name), our first designer ( Yes, our designer is named Art 🤷‍♂️ ), who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but `Isnification` is still used regularly. And yes, Isni is still with us, as well as the designer, Art.
+`Isnification` is the word we use when the designer gets the design ready for development. The idea came from `Art` (Yes, that's his name), our first designer ( Yes, our designer's name is **Art** 🤷‍♂️ ), who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but `Isnification` is still used regularly.
 
 ## 💞 Connect with us
 * [Website](https://www.luckymedia.dev/)
-* [Twitter](https://twitter.com/LuckyMediaDev)
 * [Facebook](https://www.facebook.com/LuckyMediaDev/)
 * [LinkedIn](https://www.linkedin.com/company/luckymedia/)
 * [Instagram](https://www.instagram.com/luckymedia.dev/)
+* [Twitter](https://twitter.com/LuckyMediaDev)
 * [Youtube](https://www.youtube.com/channel/UCjAJTM3trp-pAdrn_8Xd08Q)
