@@ -1,32 +1,32 @@
 # 👋 Tung from Lucky Media
-**[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** is a greeting phrase in Albanian, short for 'Tungjatjeta', it can be translated as 'may you live long'.
+**[Tung](https://www.proz.com/kudoz/english-to-albanian/general-conversation-greetings-letters/964665-hello.html)** is a greeting in Albanian, short for 'Tungjatjeta', it translates roughly as 'may you live long'.
 
 <img width="4292" alt="GitHub hero image" src="https://github.com/user-attachments/assets/a623a973-093d-4490-a04e-fce24e42a497" />
 
 
 ## 🙋‍♀️ Who we are
-**Lucky Media** is a leading software development company based in Dallas, crafting game-changing digital solutions tailored to your business.
-Our extensive experience spans across startups to enterprise-level organizations, demonstrating our flexibility and commitment to delivering high-quality code.
+**Lucky Media** is a software development agency based in Dallas, TX. We work with funded startups and enterprises, teams that need high-performance marketing sites and custom web applications built to a senior standard, without the overhead of a large agency.
 
-Our success stories highlight our versatility and innovative spirit:
+A few examples of what we've shipped:
 
-* An AI-powered web application that streamlines email responses for lead contacts, enabling efficient communication and client acquisition.
-* A comprehensive Laravel web application that revolutionizes patient management for a multi-location polyclinic, with a streamlined appointment system and enhanced staff cooperation.
-* A React Native mobile application dedicated to promoting a capital city's tourist attractions, enhancing the tourist experience with features for rating tours, providing feedback, instant reservation and payment, and more.
-* A Laravel web application for a hosting company, utilizing WHMCS, Enom, and CPanel APIs to enhance UI/UX, streamlining domain and hosting registration processes, ultimately driving increased client profitability.
+* An **AI-powered Laravel application** that automates lead communication workflows, cutting manual response time significantly for sales teams.
+* A full enterprise website rebuild for **Chainguard** on a headless CMS (Contentful) and Next.js stack. **Delivered in 30 days** with zero downtime and zero SEO impact.
+* A **React Native mobile app** for a capital city, tour ratings, instant booking, payment processing, and real-time feedback, all in one.
+* Migrated **Yarn's** documentation site from Docusaurus to Astro, bringing the PageSpeed score from 85 to 99 with a cleaner codebase and modern build pipeline.
 
-Whether you’re looking for an internal web tool with API integration or a custom SaaS app, we’re all about smooth interfaces, modern aesthetics, and a zero-tolerance policy for bugs.
+We take on a small number of new clients each year. If you need a reliable team for a custom SaaS product, internal tooling with API integrations, or a high-performance marketing site, that's what we build.
 
-Our team of developers excels in modern web development frameworks such as **Laravel, React, React Native, Next.js, Vue.js, Alpine.js, Statamic** and **TailwindCSS**.
-As a Laravel development agency, we pride ourselves on our expertise in this robust PHP framework.
+_Get Lucky, the ideal choice for custom software development!_
 
-_Get Lucky today, the ideal choice for custom software development!_
-
-## 👩‍💻 Useful resources
+## 👩‍💻 Resources
 We love all this tech stuff, and it shows. That passion for every pixel, every line of code, is packaged into every project. Our people have the freedom to create, the support to grow, and the space to enjoy their work so it feels a lot more like play.
 
 ### 💻 Technology Stack
-Our team is specialized in working with modern web development frameworks such as Laravel, React, Statamic, Next.js, Alpine.js, Vue.js and TailwindCSS.
+We specialise in a focused set of technologies rather than covering everything shallowly:
+
+* **Frontend:** React, Next.js, Astro, TailwindCSS
+* **Backend:** Laravel, Node.js, FilamentPHP
+* **CMS:** Statamic, Contentful, DatoCMS, Sanity, Prismic
 
 ### 🕸️ Open-Source
 We are continuously contributing in the open-source community, and some of our most noted projects are:
@@ -41,7 +41,7 @@ We are continuously contributing in the open-source community, and some of our m
 * [Cloud](https://statamic.com/starter-kits/luckymedia/cloud) - a compact Statamic Starter kit with more than 30 component designs
 
 ## 🍿 Fun facts
-`Isnification` is the word we use when the designer gets the design ready for development. The idea came from `Art` (Yes, that's his name), our first designer ( Yes, our designer is named Art 🤷‍♂️ ), who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but `Isnification` is still used regularly. And yes, Isni is still with us, as well as the designer, Art.
+`Isnification` is the word we use when the designer gets the design ready for development. The idea came from `Art` (Yes, that's his name), our first designer ( Yes, our designer is named Art 🤷‍♂️ ), who was working with a developer called **Isni**. Nowadays we have a much bigger team of developers, but `Isnification` is still used regularly.
 
 ## 💞 Connect with us
 * [Website](https://www.luckymedia.dev/)
